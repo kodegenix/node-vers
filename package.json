@@ -4,6 +4,10 @@
   "description": "",
   "author": "Jakub Chłapiński <jakub.chlapinski@kodegenix.pl>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kodegenix/node-vers.git"
+  },
   "main": "cli.js",
   "bin": {
     "vers": "cli.js"
