@@ -1,0 +1,14 @@
+{
+  "name": "@kodegenix/vers",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Jakub Chłapiński <jakub.chlapinski@kodegenix.pl>",
+  "license": "MIT",
+  "main": "cli.js",
+  "bin": {
+    "vers": "cli.js"
+  },
+  "dependencies": {
+    "commander": "^7.2.0"
+  }
+}
