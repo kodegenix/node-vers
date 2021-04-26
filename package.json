@@ -1,6 +1,6 @@
 {
   "name": "@kodegenix/vers",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "",
   "author": "Jakub Chłapiński <jakub.chlapinski@kodegenix.pl>",
   "license": "MIT",
@@ -8,11 +8,12 @@
     "type": "git",
     "url": "https://github.com/kodegenix/node-vers.git"
   },
-  "main": "cli.js",
+  "main": "lib/cli.js",
   "bin": {
-    "vers": "cli.js"
+    "vers": "lib/cli.js"
   },
   "dependencies": {
-    "commander": "^7.2.0"
+    "commander": "^7.2.0",
+    "fs-extra": "^9.1.0"
   }
 }
