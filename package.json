@@ -1,6 +1,6 @@
 {
   "name": "@kodegenix/vers",
-  "version": "0.3.0",
+  "version": "0.3.2",
   "description": "Versioning tool for monorepo npm package publishing",
   "author": "Jakub Chłapiński <jakub.chlapinski@kodegenix.pl>",
   "license": "MIT",
@@ -12,6 +12,9 @@
   "bin": {
     "vers": "lib/cli.js"
   },
+  "files": [
+    "lib/**/*.js"
+  ],
   "dependencies": {
     "commander": "^7.2.0",
     "fs-extra": "^9.1.0",
