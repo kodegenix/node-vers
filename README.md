@@ -1,4 +1,4 @@
-# vers
+# @kodegenix/vers
 
 [![npm](https://img.shields.io/npm/v/@kodegenix/vers)](https://www.npmjs.com/package/@kodegenix/vers)
 
