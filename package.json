@@ -1,6 +1,6 @@
 {
   "name": "@kodegenix/vers",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "Versioning tool for monorepo npm package publishing",
   "author": "Jakub Chłapiński <jakub.chlapinski@kodegenix.pl>",
   "license": "MIT",
