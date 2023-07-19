@@ -1,6 +1,6 @@
 {
   "name": "@kodegenix/vers",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "description": "Versioning tool for monorepo npm package publishing",
   "author": "Jakub Chłapiński <jakub.chlapinski@kodegenix.pl>",
   "license": "MIT",
@@ -16,8 +16,8 @@
     "lib/**/*.js"
   ],
   "dependencies": {
-    "commander": "^7.2.0",
-    "fs-extra": "^9.1.0",
-    "semver": "^7.3.5"
+    "commander": "^11.0.0",
+    "fs-extra": "^11.1.1",
+    "semver": "^7.5.4"
   }
 }
